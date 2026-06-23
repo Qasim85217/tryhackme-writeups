@@ -1,4 +1,4 @@
-# The Magician - TryHackMe Write-up
+# Extracted - TryHackMe Write-up
 
 ## Scenario
 
